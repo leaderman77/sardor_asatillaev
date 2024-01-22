@@ -34,5 +34,5 @@ I'm a Data Scientist and Machine Learning Engineer with a passion for applying A
 - **BSc in Business Information Systems**, University of Westminster, Tashkent, Uzbekistan (2010 - 2015)
 
 ## Connect with Me
-- LinkedIn: [Sardor Asatillaev](https://www.linkedin.com/in/sardorasatillaev](https://www.linkedin.com/in/sardor-asatillaev-7086b5193)https://www.linkedin.com/in/sardor-asatillaev-7086b5193)
+- LinkedIn: [Sardor Asatillaev](https://www.linkedin.com/in/sardor-asatillaev-7086b5193)
 - Email: sardorasatillaev@gmail.com
