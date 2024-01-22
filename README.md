@@ -29,6 +29,9 @@ I'm a Data Scientist and Machine Learning Engineer with a passion for applying A
 - Automated license plate data extraction.
 - Technologies: Computer Vision, Python.
 
+### [Survey about Jobs using Power BI](https://github.com/leaderman77/powerbi)
+- Power BI Dashboard about job suvery results.
+
 ## Education
 - **MSc in Data Science and Analytics**, University of Westminster, London, UK (2023 - Present)
 - **BSc in Business Information Systems**, University of Westminster, Tashkent, Uzbekistan (2010 - 2015)
