@@ -4,8 +4,9 @@
 I'm a Data Scientist and Machine Learning Engineer with a passion for applying AI to solve real-world problems. With expertise in Python, PyTorch, and SQL, I'm skilled in data engineering, visualization, and statistical modeling. Currently pursuing a Master's in Data Science and Analytics at the University of Westminster.
 
 ## Technical Skills
-- **Languages**: Python, SQL, C++, Objective-C
-- **Machine Learning/Deep Learning**: PyTorch, TensorFlow, OpenCV, ONNX
+- **Languages**: Python, SQL, C++, Objective-C, ABAP
+- **Machine Learning/Deep Learning**: Experience with CNNs (object detection and face recognition), familiar with NLP techniques (word embeddings, tokenization, sentiment analysis and text summarization), familiar with LLMs techniques (prompt engineering, building and evaluating advanced RAG, model training and fine-tuning).
+- **Frameworks**: Proficient in PyTorch, TensorFlow, HuggingFace Transformers, LlamaIndex, LangChain, OpenCV, ONNX, OpenVINO
 - **Data Visualization**: Excel, Tableau, Power BI
 - **Tools & Libraries**: Docker, GitHub/Gitlab, Flask, Scikit-Learn
 - **Databases**: Postgres, MySQL, MS SQL
