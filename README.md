@@ -27,7 +27,7 @@ I'm a Data Scientist and Machine Learning Engineer with a passion for applying A
 
 ### [Uzbekistan Vehicles License Plates Recognition](https://github.com/leaderman77/uzlpr)
 - Automated license plate data extraction.
-- Technologies: Computer Vision, Python.
+- Technologies: BeautifulSoup4, Python.
 
 ### [Survey about Jobs using Power BI](https://github.com/leaderman77/powerbi)
 - Power BI Dashboard about job suvery results.
