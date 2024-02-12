@@ -24,6 +24,7 @@ I'm a Data Scientist and Machine Learning Engineer with a passion for applying A
 
 ### [Monkeypox Virus Screening Model](https://github.com/leaderman77/mpox_classification)
 - Deployed a ML model for MPOX detection.
+- Empoyed a variety of models such as KNN, Decision Tree, Logistic Regression, Naïve Bayes, Ensemble learning and optimization algorithm - grid search
 - Technologies: TensorFlow, Python.
 
 ### [Uzbekistan Vehicles License Plates Recognition](https://github.com/leaderman77/uzlpr)
