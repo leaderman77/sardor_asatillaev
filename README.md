@@ -9,9 +9,10 @@ I'm a Data Scientist and Machine Learning Engineer with a passion for applying A
 - **Frameworks**: Proficient in PyTorch, TensorFlow, HuggingFace Transformers, LlamaIndex, LangChain, OpenCV, ONNX, OpenVINO
 - **Data Visualization**: Excel, Tableau, Power BI
 - **Tools & Libraries**: Docker, GitHub/Gitlab, Flask, Scikit-Learn
-- **Databases**: Postgres, MySQL, MS SQL
-- **Cloud Technology**: Google Cloud Platform
+- **Databases**: SQLite, Postgres, MySQL, MS SQL
+- **Cloud Technology**: AWS S3, AWS SageMaker, AWS EC2, Google Cloud Platform
 - **Web Development**: FastAPI, Gradio
+- **Integration & Development**: Proficient in REST and SOAP services, JSON, XML/XSD; skilled in UML notations for business process design.
 
 ## Projects
 ### [RAG-AcademicSearch](https://github.com/leaderman77/RAG-AcademicSearch/tree/main)
