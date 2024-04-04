@@ -14,6 +14,9 @@ I'm a Data Scientist and Machine Learning Engineer with a passion for applying A
 - **Web Development**: FastAPI, Gradio
 
 ## Projects
+### [RAG-AcademicSearch](https://github.com/leaderman77/RAG-AcademicSearch/tree/main)
+- Development and Evaluation of RAG-powered Academic Literature Search Assistant application with Arxiv papers
+
 ### [HR System for Local Bank](https://github.com/leaderman77/hr)
 - Developed a computer vision-based HR system.
 - Technologies: Insightface, Flask, OpenCV.
