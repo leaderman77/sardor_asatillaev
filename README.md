@@ -26,6 +26,10 @@ I'm a Data Scientist and Machine Learning Engineer with a passion for applying A
 - Traffic offenses detection using YOLOv8.
 - Technologies: YOLOv8, Gradio, OpenCV.
 
+### [Electric Vehicle Ownership Sentiment Analysis](https://github.com/leaderman77/ev-sentiment-analysis)
+- Electric Vehicle Sentiment Analysis Using LDA and VADER.
+- Technologies Used: Python, Natural Language Toolkit (NLTK), Pandas, Gensim for LDA, VADER Sentiment Analysis, Matplotlib, and PyLDAVis for visualization.
+
 ### [Monkeypox Virus Screening Model](https://github.com/leaderman77/mpox_classification)
 - Deployed a ML model for MPOX detection.
 - Empoyed a variety of models such as KNN, Decision Tree, Logistic Regression, Naïve Bayes, Ensemble learning and optimization algorithm - grid search
