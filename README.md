@@ -35,6 +35,11 @@ I'm a Data Scientist and Machine Learning Engineer with a passion for applying A
 - Empoyed a variety of models such as KNN, Decision Tree, Logistic Regression, Naïve Bayes, Ensemble learning and optimization algorithm - grid search
 - Technologies: TensorFlow, Python.
 
+### [Advanced Customer Segmentation for Grocery Shopping Data](https://github.com/leaderman77/MarketBasketRFMAnalysis)
+- Advanced Customer Segmentation in Grocery Retail: Employed RFM analysis and clustering algorithms to segment grocery store customers, enhancing marketing strategy precision.
+- Technologies Used: SQL for RFM metric calculation, Python (Pandas, Scikit-Learn) for data preprocessing and clustering with K-Means, DBSCAN, and Agglomerative Clustering.
+- Outcome: Developed actionable insights into customer behaviors, enabling targeted marketing campaigns, with comprehensive documentation for marketing strategists.
+
 ### [Uzbekistan Vehicles License Plates Recognition](https://github.com/leaderman77/uzlpr)
 - Automated license plate data extraction.
 - Technologies: BeautifulSoup4, Python.
