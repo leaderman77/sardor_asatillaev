@@ -31,9 +31,10 @@ I'm a Data Scientist and Machine Learning Engineer with a passion for applying A
 - Technologies Used: Python, Natural Language Toolkit (NLTK), Pandas, Gensim for LDA, VADER Sentiment Analysis, Matplotlib, and PyLDAVis for visualization.
 
 ### [Monkeypox Virus Screening Model](https://github.com/leaderman77/mpox_classification)
-- Deployed a ML model for MPOX detection.
+- MPOX Virus Prediction Model: Developed a machine learning model to predict MPOX virus infections, minimizing the need for expensive PCR tests and aiding in rapid screening.
 - Empoyed a variety of models such as KNN, Decision Tree, Logistic Regression, Naïve Bayes, Ensemble learning and optimization algorithm - grid search
-- Technologies: TensorFlow, Python.
+- Dataset Utilization: Analyzed a dataset of 18,849 patient records, including symptoms and health indicators, to train and evaluate classification models.
+- Technologies Employed: Utilized Python, Scikit-Learn, google colab for model building, and Pandas, NumPy for data manipulation, with visualizations created using Matplotlib and Seaborn.
 
 ### [Advanced Customer Segmentation for Grocery Shopping Data](https://github.com/leaderman77/MarketBasketRFMAnalysis)
 - Advanced Customer Segmentation in Grocery Retail: Employed RFM analysis and clustering algorithms to segment grocery store customers, enhancing marketing strategy precision.
