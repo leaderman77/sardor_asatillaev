@@ -40,7 +40,10 @@ I'm a Data Scientist and Machine Learning Engineer with a passion for applying A
 - Advanced Customer Segmentation in Grocery Retail: Employed RFM analysis and clustering algorithms to segment grocery store customers, enhancing marketing strategy precision.
 - Technologies Used: SQL for RFM metric calculation, Python (Pandas, Scikit-Learn) for data preprocessing and clustering with K-Means, DBSCAN, and Agglomerative Clustering.
 - Outcome: Developed actionable insights into customer behaviors, enabling targeted marketing campaigns, with comprehensive documentation for marketing strategists.
-
+### [UK Property Market Insights](https://github.com/leaderman77/UK-Property-Data-Analysis/)
+- Overview: Analyzed UK property transactions from 1995-2024 to identify market trends and anomalies using large datasets. Employed statistical methods and geospatial analysis to evaluate regional price dynamics and property sales.
+- Technologies Used: Python, Pandas, GeoPandas, Matplotlib, Seaborn, Jupyter Notebook.
+- Outcome: Delivered insights into property pricing trends and transaction anomalies, enhancing understanding of the UK real estate market. Demonstrated advanced data handling and analytical skills in a real-world context.
 ### [Uzbekistan Vehicles License Plates Recognition](https://github.com/leaderman77/uzlpr)
 - Automated license plate data extraction.
 - Technologies: BeautifulSoup4, Python.
