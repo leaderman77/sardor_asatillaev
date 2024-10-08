@@ -15,8 +15,8 @@ I'm a Data Scientist and Machine Learning Engineer with a passion for applying A
 - **Integration & Development**: Proficient in REST and SOAP services, JSON, XML/XSD; skilled in UML notations for business process design.
 
 ## Projects
-### [RAG-AcademicSearch](https://github.com/leaderman77/RAG-AcademicSearch/tree/main)
-- Development and Evaluation of RAG-powered Academic Literature Search Assistant application with Arxiv papers
+### [SmartRetrieval-RAG](https://github.com/leaderman77/rag_project)
+- Development and Evaluation of RAG-powered Question Answering system using LLamaIndex for retrieval, Neo4j for knowledge management, and OpenAI's API for generation
 
 ### [HR System for Local Bank](https://github.com/leaderman77/hr)
 - Developed a computer vision-based HR system.
