@@ -1,7 +1,7 @@
 # Sardor Asatillaev
 
 ## About Me
-I'm a Data Scientist and Machine Learning Engineer with a passion for applying AI to solve real-world problems. With expertise in Python, PyTorch, and SQL, I'm skilled in LLMs, NLP, Computer Vision, and statistical modeling. Currently pursuing a Master's in Data Science and Analytics at the University of Westminster.
+I'm a Data Scientist and Machine Learning Engineer with a passion for applying AI to solve real-world problems. With expertise in Python, PyTorch, and SQL, I'm skilled in developing and deploying advanced ML including RAG, LLMs, NLP, and Computer Vision, with strong foundation in MLOps tools like Docker and GitHub Actions. Proficient in Python, PyTorch, TensorFlow, and cloud platforms like AWS and GCP. Hold a a Master of Science degree in Data Science and Analytics from the University of Westminster.
 
 ## Technical Skills
 - **Languages**: Python, SQL, C++, Objective-C, ABAP
